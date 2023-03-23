@@ -2,9 +2,9 @@ cd 3
 git clone https://github.com/tp-labs/lab03.git
 cd
 cd 3/lab03
-git config user.name "ne-kit-28"
-git config user.email "nickit.nic098@yandex.ru"
-git remote set-url origin https://ne-ki-28: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@github.com/ne-kit-28/lab03.git
+git config user.name "magistrmittil"
+git config user.email "mitya.2004tarasov.ru@inbox.ru"
+git remote set-url origin https://magistrmittil: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@github.com/magistrmittil/LAB3.git
 mkdir formatter_lib
 cd formatter_lib
 cat > CMakeList.txt
